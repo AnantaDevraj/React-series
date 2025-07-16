@@ -16,3 +16,6 @@ Learing in the Day 3:
 3. what is props , and how to use them.
 4. how to create components and use of them.
 
+
+Learning in pass-Generator project :
+
